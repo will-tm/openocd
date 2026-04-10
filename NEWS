@@ -2,6 +2,8 @@ This file includes highlights of the changes made in the OpenOCD
 source archive release.
 
 JTAG Layer:
+	* Added support for T-Head CK-Link Lite JTAG adapters, including the
+	  Bouffalo Lab BL616/BL702 clone probes (BL618 eval board debugger).
 
 Boundary Scan:
 
